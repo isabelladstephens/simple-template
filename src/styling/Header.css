@@ -1,0 +1,15 @@
+.navbar-container {
+  max-width: 100vw;
+  padding-left: 1em;
+  padding-right: 1em;
+  background-color: gray;
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  margin-left: 1em;
+  margin-right: 1em;
+  height: 40px;
+  width: auto;
+}
